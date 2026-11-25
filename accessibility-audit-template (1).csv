@@ -1,0 +1,6 @@
+issue_id,page_or_component,wcag_reference,evidence,severity,user_impact,recommended_fix,owner,status
+1,India post home page,Lighthouse Accessibility,Video element require caption,Medium,hearing-impaired users may not understand video content,add caption to the video,Frontend developer,Open
+2,India post home page,Lighthouse best practices,identical links have same purpose,Low,user may get confused when navigating links,use clear and meaningful link text,frontend develpoer,Open
+3,India post home page,keyboard testing,interactive control are not easily identified,medium,user may find it diificult to navigate,provide visible focusindicators,frontend develpoer,Open
+4,India post home page,keyboard testing,some interactive elements may not have clear keyboard tab order,medium,user may miss important controls,ensure a logical tab order,Frontend developer,Open
+5,India post home page,Lighthouse Accessibility,some custom control may require accessible labels,medium,user may not understand the purpose of controls,add proper labels,Frontend developer,Open
